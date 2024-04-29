@@ -3519,3 +3519,191 @@ India
 2024-04-25 17:28:05,325  [main] INFO  (footer.java:199) - Clicking on submit button
 2024-04-25 17:28:05,328  [main] INFO  (testListners.java:18) - [Test Passed] :- 
 2024-04-25 17:28:05,342  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 15:59:40,385  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 15:59:58,069  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 15:59:58,126  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 15:59:58,135  [main] INFO  (home_page.java:107) - Checking for CTA in banner
+2024-04-29 15:59:58,138  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 15:59:59,229  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 15:59:59,229  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 16:01:22,643  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 16:01:38,948  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 16:01:39,027  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 16:01:39,047  [main] INFO  (home_page.java:107) - Checking for CTA in banner
+2024-04-29 16:01:39,062  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 16:01:39,759  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 16:01:39,759  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 16:05:01,338  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 16:05:18,805  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 16:05:18,883  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 16:05:19,022  [main] INFO  (home_page.java:120) - Checking for broucher in banner
+2024-04-29 16:05:19,043  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 16:05:21,963  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 16:05:21,966  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 16:07:57,126  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 16:08:05,036  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 16:08:16,091  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 16:08:16,105  [main] INFO  (home_page.java:120) - Checking for broucher in banner
+2024-04-29 16:08:16,106  [main] INFO  (home_page.java:122) - Broucher CTA present
+2024-04-29 16:08:16,108  [main] INFO  (home_page.java:128) - Broucher not available
+2024-04-29 16:08:16,108  [main] INFO  (home_page.java:178) - Checking for Events section
+2024-04-29 16:08:16,112  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 16:08:17,013  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 16:08:17,013  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 16:13:19,208  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 16:13:36,626  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 16:13:36,680  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 16:13:36,687  [main] INFO  (home_page.java:120) - Checking for broucher in banner
+2024-04-29 16:13:36,690  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 16:13:37,384  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 16:13:37,384  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 16:16:36,852  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 16:17:02,690  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 16:17:02,764  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 16:17:02,772  [main] INFO  (home_page.java:120) - Checking for broucher in banner
+2024-04-29 16:17:02,777  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 16:17:02,985  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 16:17:02,985  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 16:18:25,650  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 16:18:36,610  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 16:18:50,524  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 16:18:50,557  [main] INFO  (home_page.java:120) - Checking for broucher in banner
+2024-04-29 16:18:50,559  [main] INFO  (home_page.java:123) - Broucher CTA present
+2024-04-29 16:18:50,597  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 16:18:52,357  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 16:18:52,359  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 16:47:01,210  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 16:47:13,717  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 16:47:13,810  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 16:47:13,819  [main] INFO  (home_page.java:120) - Checking for broucher in banner
+2024-04-29 16:47:13,827  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 16:47:14,567  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 16:47:14,567  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 16:48:52,619  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 16:49:08,344  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 16:49:08,391  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 16:49:08,456  [main] INFO  (home_page.java:107) - Checking for CTA in banner
+2024-04-29 16:49:08,545  [main] INFO  (home_page.java:110) - Banner CTA present
+2024-04-29 16:49:09,721  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 16:49:10,021  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 16:49:10,022  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 16:53:23,300  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 16:53:54,748  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 16:53:54,791  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 16:53:54,835  [main] INFO  (home_page.java:107) - Checking for CTA in banner
+2024-04-29 16:53:54,881  [main] INFO  (home_page.java:110) - Banner CTA present
+2024-04-29 16:53:56,270  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 16:53:56,510  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 16:53:56,510  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 16:54:32,969  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 16:54:52,141  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 16:54:52,203  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 16:54:52,255  [main] INFO  (home_page.java:120) - Checking for broucher in banner
+2024-04-29 16:54:52,324  [main] INFO  (home_page.java:123) - Broucher CTA present
+2024-04-29 16:54:53,567  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 16:54:54,147  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 16:54:54,148  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 16:57:49,261  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 16:58:11,869  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 16:58:11,909  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 16:58:11,957  [main] INFO  (home_page.java:122) - Checking for broucher in banner
+2024-04-29 16:58:12,040  [main] INFO  (home_page.java:125) - Broucher CTA present
+2024-04-29 16:58:13,221  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 16:58:13,733  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 16:58:13,734  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 17:08:23,519  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 17:08:49,788  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 17:08:50,103  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 17:08:50,412  [main] INFO  (home_page.java:122) - Checking for broucher in banner
+2024-04-29 17:08:50,835  [main] INFO  (home_page.java:125) - Broucher CTA present
+2024-04-29 17:08:52,372  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 17:08:53,839  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 17:08:53,843  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 17:12:32,217  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 17:12:55,322  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 17:12:55,423  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of witness tafe section
+2024-04-29 17:12:55,720  [main] INFO  (home_page.java:149) - HERITAGE
+2024-04-29 17:12:55,756  [main] INFO  (home_page.java:149) - COMPACT
+2024-04-29 17:12:55,794  [main] INFO  (home_page.java:149) - MAGNA
+2024-04-29 17:12:57,107  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of witness tafe section
+2024-04-29 17:12:58,027  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 17:12:58,037  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 17:18:22,375  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 17:18:31,411  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 17:18:42,192  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 17:18:42,292  [main] INFO  (home_page.java:123) - Checking for broucher in banner
+2024-04-29 17:18:42,440  [main] INFO  (home_page.java:126) - Broucher CTA present
+2024-04-29 17:18:43,835  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 17:18:44,906  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 17:18:44,907  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 17:28:42,910  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 17:29:00,604  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 17:29:00,704  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of witness tafe section
+2024-04-29 17:29:00,904  [main] INFO  (home_page.java:150) - HERITAGE
+2024-04-29 17:29:00,925  [main] INFO  (home_page.java:150) - COMPACT
+2024-04-29 17:29:00,942  [main] INFO  (home_page.java:150) - MAGNA
+2024-04-29 17:29:02,173  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of witness tafe section
+2024-04-29 17:29:02,619  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 17:29:02,619  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 17:29:18,305  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 17:29:37,049  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 17:29:37,110  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of CTA in home page
+2024-04-29 17:29:37,158  [main] INFO  (home_page.java:123) - Checking for broucher in banner
+2024-04-29 17:29:37,212  [main] INFO  (home_page.java:126) - Broucher CTA present
+2024-04-29 17:29:38,500  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of CTA in home page
+2024-04-29 17:29:39,212  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 17:29:39,213  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 17:30:10,282  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 17:30:29,321  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 17:30:29,435  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of social Menus
+2024-04-29 17:30:29,535  [main] INFO  (home_page.java:66) - Checking for social pop over in banner section
+2024-04-29 17:30:29,634  [main] INFO  (home_page.java:69) - Social pop over is present
+2024-04-29 17:30:29,790  [main] INFO  (home_page.java:71) - Clicking on social pop over menus
+2024-04-29 17:31:00,063  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of social Menus
+2024-04-29 17:31:01,406  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 17:31:01,407  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 17:31:54,428  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 17:32:14,208  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 17:32:14,277  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of social Menus
+2024-04-29 17:32:14,362  [main] INFO  (home_page.java:66) - Checking for social pop over in banner section
+2024-04-29 17:32:14,489  [main] INFO  (home_page.java:69) - Social pop over is present
+2024-04-29 17:32:14,593  [main] INFO  (home_page.java:71) - Clicking on social pop over menus
+2024-04-29 17:32:14,957  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of social Menus
+2024-04-29 17:32:17,494  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 17:32:17,497  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 17:32:58,770  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 17:33:21,189  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 17:33:21,260  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of social Menus
+2024-04-29 17:33:21,321  [main] INFO  (home_page.java:66) - Checking for social pop over in banner section
+2024-04-29 17:33:21,392  [main] INFO  (home_page.java:69) - Social pop over is present
+2024-04-29 17:33:21,475  [main] INFO  (home_page.java:71) - Clicking on social pop over menus
+2024-04-29 17:33:21,769  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of social Menus
+2024-04-29 17:33:23,090  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 17:33:23,093  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 17:38:59,123  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 17:39:21,437  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 17:39:21,487  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of social Menus
+2024-04-29 17:39:21,539  [main] INFO  (home_page.java:66) - Checking for social pop over in banner section
+2024-04-29 17:39:21,596  [main] INFO  (home_page.java:69) - Social pop over is present
+2024-04-29 17:39:22,001  [main] INFO  (home_page.java:71) - Clicking on social pop over menus
+2024-04-29 17:39:22,347  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of social Menus
+2024-04-29 17:39:23,693  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 17:39:23,693  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 17:42:49,727  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 17:43:29,045  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 17:43:29,110  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of social Menus
+2024-04-29 17:43:29,192  [main] INFO  (home_page.java:66) - Checking for social pop over in banner section
+2024-04-29 17:43:29,357  [main] INFO  (home_page.java:69) - Social pop over is present
+2024-04-29 17:43:29,940  [main] INFO  (home_page.java:71) - Clicking on social pop over menus
+2024-04-29 17:43:30,457  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of social Menus
+2024-04-29 17:43:32,310  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 17:43:32,310  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-04-29 17:46:37,035  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-04-29 17:47:11,875  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-04-29 17:47:11,952  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of social Menus
+2024-04-29 17:47:12,010  [main] INFO  (home_page.java:66) - Checking for social pop over in banner section
+2024-04-29 17:47:12,092  [main] INFO  (home_page.java:69) - Social pop over is present
+2024-04-29 17:47:12,210  [main] INFO  (home_page.java:71) - Clicking on social pop over menus
+2024-04-29 17:47:12,488  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of social Menus
+2024-04-29 17:47:14,109  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-04-29 17:47:14,116  [main] INFO  (BaseClass.java:90) - Closing Browser
