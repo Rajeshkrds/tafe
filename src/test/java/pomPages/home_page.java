@@ -64,8 +64,8 @@ public class home_page {
 	public void social_popup(WebDriver driver) throws InterruptedException, IOException 
 	{
 		log.info("Checking for social pop over in banner section");
-		if(social_popup.isDisplayed()) 
-		{
+//		if(social_popup.isDisplayed()) 
+//		{
 			log.info("Social pop over is present");
 			social_popup.click();
 			log.info("Clicking on social pop over menus");
@@ -75,34 +75,20 @@ public class home_page {
 			//	String current_url = social_links.get(i).getText();
 				String current_url = links.getText();
 				((JavascriptExecutor)driver).executeScript("window.open(arguments[0])", links.getAttribute("href"));
-				ArrayList<String> tabs = new ArrayList<>(driver.getWindowHandles());
+				ArrayList<String> tabs = new ArrayList<String>(driver.getWindowHandles());
 				driver.switchTo().window(tabs.get(tabs.size()-1));
-				@SuppressWarnings("deprecation")
-				URL url =new URL(current_url);
-				HttpURLConnection httpConnect = (HttpURLConnection) url.openConnection();
-				httpConnect.connect();
-				
-				if(httpConnect.getResponseCode()>=400) 
-				{
-					log.info("404 Page not found - "+driver.getTitle());
-				}
-				else 
-				{
-					log.info(driver.getTitle());
-					
-				}
+				Thread.sleep(5000);
+				log.info(driver.getTitle());
 				Thread.sleep(5000);
 				driver.close();
-				
 				driver.switchTo().window(tabs.get(0));
-				Thread.sleep(5000);
 
 			}
-		}
-		else 
-		{
-			log.info("Social pop over not displayed");
-		}
+//		}
+//		else 
+//		{
+//			log.info("Social pop over not displayed");
+//		}
 		
 		}
 	
@@ -175,9 +161,7 @@ public class home_page {
 				u.back_navigation(driver);
 			}
 		}
-		
-		
-		
+
 	}
 	
 	public void events_section(WebDriver driver) throws InterruptedException 
