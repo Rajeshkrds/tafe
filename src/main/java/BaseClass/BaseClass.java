@@ -88,7 +88,7 @@ public class BaseClass {
 	        }
 	    
 	    log.info("Closing Browser");
-	    driver.close();
+	 //   driver.close();
 	}
 
 }

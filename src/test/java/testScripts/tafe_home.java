@@ -17,18 +17,19 @@ public class tafe_home extends BaseClass{
 		home.social_popup(driver);
 	}
 	@Test(testName = "Testing Home Page CTA's", description = "Validation of CTA in home page")
-	
 	public void Tc_validating_homePage_CTA() throws InterruptedException 
 	{
 		home_page home = new home_page(driver);
 //		home.banner_CTA();
-		home.bourcher(driver);
-		home.events_section(driver);
-		home.find_dealers(driver);
+//		home.bourcher(driver); //picture tag is overlapped with cta unable to click
+//		home.events_section(driver);
+//		home.find_dealers(driver);
+//		home.explore_CTA(driver);
+		home.news_blogs(driver);
 	}
 	
 	@Test(testName = "Witness Tafe functionality", description = "Validation of witness tafe section")
-	public void witness_Tafe() 
+	public void witness_Tafe() throws InterruptedException 
 	{
 		home_page home = new home_page(driver);
 		home.witness_Tafe(driver);

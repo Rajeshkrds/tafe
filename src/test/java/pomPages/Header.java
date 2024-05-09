@@ -82,7 +82,7 @@ public class Header {
 		}
 	}
 	
-	public void regions_countries(WebDriver driver) throws InterruptedException 
+	public void regions_countries(WebDriver driver,String Country) throws InterruptedException 
 	{
 		select_country_CTA.click();
 		for(int i=0; i<regions.size();i++) 
@@ -94,18 +94,29 @@ public class Header {
 			for(WebElement country: country_list)
 			{
 				log.info(country.getText());
-				}
+			}
+		}
+		for(WebElement name:countries) 
+		{
+			if(Country.equals(name.getText()))
+			{
+				log.info("Clicking country or locale "+	name.getText());
+				name.click();
+				Thread.sleep(5000);
+				log.info("Redirecting to " + select_country_CTA.getText()+" site");
+			}
+
 		}
 		
-		Random rand = new Random();
-		int newrand = rand.nextInt(countries.size());
-		log.info("Clicking country or locale "+	countries.get(newrand).getText());
-		countries.get(newrand).click();
-	
-		Thread.sleep(3000);
-		
-		log.info("Redirecting to " + select_country_CTA.getText()+" site");
-		
+//		Random rand = new Random();
+//		int newrand = rand.nextInt(countries.size());
+//		log.info("Clicking country or locale "+	countries.get(newrand).getText());
+//		countries.get(newrand).click();
+//	
+//		Thread.sleep(3000);
+//		
+//		log.info("Redirecting to " + select_country_CTA.getText()+" site");
+//		
 	}
 
 	public void closePopup() 

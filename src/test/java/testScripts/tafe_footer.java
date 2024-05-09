@@ -11,7 +11,7 @@ import pomPages.footer;
 
 public class tafe_footer extends BaseClass {
 
-	@Test
+	@Test(testName = "footer functionality", description = "Validation of Footer")
 	public void Tc_validating_footer() throws InterruptedException, IOException 
 	{
 		footer footer = new footer(driver);
@@ -23,7 +23,7 @@ public class tafe_footer extends BaseClass {
 		footer.copy_rights();
 	}
 	
-	@Test
+	@Test(testName = "contact form functionality", description = "Validation of contact form")
 	public void TC_contact_form() throws IOException, InterruptedException 
 	{
 		 Properties testData = new Properties();

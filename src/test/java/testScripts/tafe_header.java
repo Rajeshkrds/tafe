@@ -1,5 +1,9 @@
 package testScripts;
 
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.Properties;
+
 import org.apache.log4j.Logger;
 import org.testng.annotations.Test;
 
@@ -20,13 +24,18 @@ public class tafe_header extends BaseClass{
 	}
 	
 	@Test(testName = "Country PopUp functionality", description = "Validation of countries")
-	public void TC_validating_regions() throws InterruptedException 
+	public void TC_validating_regions() throws InterruptedException, IOException 
 	{
 		Header header = new Header(driver);
+		Properties datafile = new Properties();
+		FileInputStream filepath = new FileInputStream(
+				"C:\\Users\\Administrator\\eclipse-workspace\\TAFE\\src\\test\\resources\\data.properties");
+		datafile.load(filepath);
+		String country = datafile.getProperty("country");
 		
 		header.countryPopup(driver);
 		
-		header.regions_countries(driver);
+		header.regions_countries(driver,country);
 		
 		header.closePopup();
 		
