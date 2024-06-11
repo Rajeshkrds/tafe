@@ -34,4 +34,11 @@ public class tafe_home extends BaseClass{
 		home_page home = new home_page(driver);
 		home.witness_Tafe(driver);
 	}
+	
+	@Test(testName = "Drive Future functionality", description = "Validation of drive future section")
+	public void drive_future() 
+	{
+		home_page home = new home_page(driver);
+		home.story_section(driver);
+	}
 }

@@ -23,6 +23,7 @@ public class home_page {
 	Logger log = Logger.getLogger(this.getClass().getName());
 	utilities u = new utilities();
 	
+	
 	@FindBy(xpath="//button[contains(@class,\"relative z-10 bg-primary\")]")
 	private WebElement social_popup;
 	
@@ -40,6 +41,9 @@ public class home_page {
 	
 	@FindBy(xpath="//button[contains(@class,\"text-lg tracking-wider \")]")
 	private List<WebElement> categories;
+	
+	@FindBy(xpath="//button[contains(@class,\"cursor-pointer text-light\")]")
+	private WebElement closeicon;
 	
 	//@FindBy(xpath="//div[contains(@class,\"relative max-lg\")]/child::div//p")
 	//@FindBy(xpath="(//div[contains(@class,\"swiper-wrapper\")])[4]/child::div//p")
@@ -59,7 +63,8 @@ public class home_page {
 	@FindBy(xpath="//div[@class=\"flex flex-wrap gap-5\"]//a")
 	private WebElement dealers;
 	
-	@FindBy(xpath="//span[text()='PLAY']")
+	//@FindBy(xpath="//span[text()='PLAY']")
+	@FindBy(xpath="//button[contains(@class,\"flex items-center absolute\")]")
 	private WebElement playbutton;
 	
 	@FindBy(xpath="//a[text()='Read More']")
@@ -236,9 +241,14 @@ public class home_page {
 		}
 	}
 	
-	public void story_section() 
+	public void story_section(WebDriver driver) 
 	{
+		log.info("Clicking on Play button");
+		Actions a = new Actions(driver);
+		a.moveToElement(playbutton).build().perform();
 		playbutton.click();
+		log.info("Closing video popup");
+		closeicon.click();
 	}
 	
 	public void news_blogs(WebDriver driver) throws InterruptedException 

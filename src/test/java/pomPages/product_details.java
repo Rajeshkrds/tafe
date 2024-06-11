@@ -58,12 +58,12 @@ public class product_details {
 		PageFactory.initElements(driver, this);
 	}
 	
-	@SuppressWarnings("unlikely-arg-type")
 	public void get_details_page(WebDriver driver, String modelName, String driveType) throws IOException, InterruptedException 
 	{
 		log.info("Clicking on product menu from header");
 		product_menu.click();
 		String url =driver.getCurrentUrl();
+		@SuppressWarnings("deprecation")
 		URL newurl =new URL(url);
 		HttpsURLConnection connect = (HttpsURLConnection) newurl.openConnection();
 		connect.connect();
@@ -132,11 +132,13 @@ public class product_details {
 	
 	public void compare_model() 
 	{
+		
+		
 		Select compare_dd = new Select(compare1);
 		compare_dd.selectByIndex(1);
 		
 		Select compare_dd2 = new Select(compare2);
-		compare_dd.selectByIndex(1);
+		compare_dd2.selectByIndex(1);
 		
 	}
 	

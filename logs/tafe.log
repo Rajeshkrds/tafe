@@ -3821,3 +3821,255 @@ HERITAGE
 2024-05-07 18:32:28,104  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of countries
 2024-05-07 18:32:28,808  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_header
 2024-05-07 18:32:28,813  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-06-10 14:24:40,177  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-06-10 14:25:01,771  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-06-10 14:25:01,992  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of witness tafe section
+2024-06-10 14:25:03,479  [main] INFO  (home_page.java:168) - MAGNA
+2024-06-10 14:25:03,707  [main] INFO  (home_page.java:171) - Total models in MAGNA are : 11
+2024-06-10 14:25:03,833  [main] INFO  (home_page.java:175) - TAFE 4615
+2024-06-10 14:25:06,058  [main] INFO  (home_page.java:175) - TAFE 6015
+2024-06-10 14:25:08,164  [main] INFO  (home_page.java:175) - TAFE 6015
+2024-06-10 14:25:10,278  [main] INFO  (home_page.java:175) - TAFE 6515
+2024-06-10 14:25:12,468  [main] INFO  (home_page.java:175) - TAFE 7515
+2024-06-10 14:25:14,987  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:25:17,104  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:25:19,208  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:25:21,291  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:25:23,328  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:25:25,366  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:25:28,168  [main] INFO  (home_page.java:168) - COMPACT
+2024-06-10 14:25:28,257  [main] INFO  (home_page.java:171) - Total models in COMPACT are : 3
+2024-06-10 14:25:28,339  [main] INFO  (home_page.java:175) - TAFE 6028 M
+2024-06-10 14:25:30,438  [main] INFO  (home_page.java:175) - TAFE 6022
+2024-06-10 14:25:32,458  [main] INFO  (home_page.java:175) - TAFE 6028 M with Front Loader
+2024-06-10 14:25:35,217  [main] INFO  (home_page.java:168) - HERITAGE
+2024-06-10 14:25:35,258  [main] INFO  (home_page.java:171) - Total models in HERITAGE are : 21
+2024-06-10 14:25:35,383  [main] INFO  (home_page.java:175) - TAFE 35 DI
+2024-06-10 14:25:37,414  [main] INFO  (home_page.java:175) - TAFE 1038 DI
+2024-06-10 14:25:39,433  [main] INFO  (home_page.java:175) - TAFE 241 DI
+2024-06-10 14:25:41,476  [main] INFO  (home_page.java:175) - TAFE 241 DI Dynatrack
+2024-06-10 14:25:43,509  [main] INFO  (home_page.java:175) - TAFE 45 DI
+2024-06-10 14:25:45,563  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:25:47,651  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:25:49,692  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:25:51,727  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:25:53,868  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:25:55,980  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:25:58,029  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:26:00,198  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:26:02,241  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:26:04,264  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:26:06,317  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:26:08,365  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:26:10,462  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:26:12,517  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:26:14,640  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:26:16,665  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:26:23,791  [main] INFO  (home_page.java:184) - Clicking on a model
+2024-06-10 14:26:35,601  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of witness tafe section
+2024-06-10 14:26:38,563  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-06-10 14:26:38,566  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-06-10 14:28:21,706  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-06-10 14:28:32,253  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-06-10 14:28:39,624  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of witness tafe section
+2024-06-10 14:28:41,920  [main] INFO  (home_page.java:168) - MAGNA
+2024-06-10 14:28:42,170  [main] INFO  (home_page.java:171) - Total models in MAGNA are : 11
+2024-06-10 14:28:42,979  [main] INFO  (home_page.java:175) - TAFE 4615
+2024-06-10 14:28:45,215  [main] INFO  (home_page.java:175) - TAFE 6015
+2024-06-10 14:28:47,386  [main] INFO  (home_page.java:175) - TAFE 6015
+2024-06-10 14:28:49,471  [main] INFO  (home_page.java:175) - TAFE 6515
+2024-06-10 14:28:51,574  [main] INFO  (home_page.java:175) - TAFE 7515
+2024-06-10 14:28:53,627  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:28:56,009  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:28:58,167  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:00,347  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:02,768  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:04,924  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:07,415  [main] INFO  (home_page.java:168) - COMPACT
+2024-06-10 14:29:07,536  [main] INFO  (home_page.java:171) - Total models in COMPACT are : 3
+2024-06-10 14:29:07,569  [main] INFO  (home_page.java:175) - TAFE 6028 M
+2024-06-10 14:29:09,586  [main] INFO  (home_page.java:175) - TAFE 6022
+2024-06-10 14:29:11,612  [main] INFO  (home_page.java:175) - TAFE 6028 M with Front Loader
+2024-06-10 14:29:14,289  [main] INFO  (home_page.java:168) - HERITAGE
+2024-06-10 14:29:14,322  [main] INFO  (home_page.java:171) - Total models in HERITAGE are : 21
+2024-06-10 14:29:14,450  [main] INFO  (home_page.java:175) - TAFE 35 DI
+2024-06-10 14:29:16,472  [main] INFO  (home_page.java:175) - TAFE 1038 DI
+2024-06-10 14:29:18,517  [main] INFO  (home_page.java:175) - TAFE 241 DI
+2024-06-10 14:29:20,608  [main] INFO  (home_page.java:175) - TAFE 241 DI Dynatrack
+2024-06-10 14:29:22,647  [main] INFO  (home_page.java:175) - TAFE 45 DI
+2024-06-10 14:29:24,688  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:26,776  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:28,809  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:30,868  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:32,952  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:35,024  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:37,181  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:39,504  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:41,612  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:43,662  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:46,069  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:48,158  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:50,193  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:52,312  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:54,681  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:29:57,027  [main] INFO  (home_page.java:175) - 
+2024-06-10 14:30:04,221  [main] INFO  (home_page.java:184) - Clicking on a model
+2024-06-10 14:30:19,104  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of witness tafe section
+2024-06-10 14:30:21,063  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-06-10 14:30:21,064  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-06-10 14:51:43,845  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-06-10 14:52:05,855  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-06-10 14:52:06,041  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of witness tafe section
+2024-06-10 14:52:06,064  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of witness tafe section
+2024-06-10 14:52:08,104  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-06-10 14:52:08,106  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-06-10 14:52:36,247  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-06-10 14:52:55,846  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-06-10 14:52:56,040  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of witness tafe section
+2024-06-10 14:52:56,066  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of witness tafe section
+2024-06-10 14:52:59,259  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-06-10 14:52:59,260  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-06-10 14:53:15,214  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-06-10 14:53:34,293  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-06-10 14:53:34,458  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of witness tafe section
+2024-06-10 14:53:34,517  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of witness tafe section
+2024-06-10 14:53:37,469  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-06-10 14:53:37,477  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-06-10 15:00:56,113  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-06-10 15:01:23,581  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-06-10 15:01:26,306  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of witness tafe section
+2024-06-10 15:01:31,263  [main] INFO  (home_page.java:168) - MAGNA
+2024-06-10 15:01:31,524  [main] INFO  (home_page.java:171) - Total models in MAGNA are : 11
+2024-06-10 15:01:31,779  [main] INFO  (home_page.java:175) - TAFE 4615
+2024-06-10 15:01:34,664  [main] INFO  (home_page.java:175) - TAFE 6015
+2024-06-10 15:01:36,770  [main] INFO  (home_page.java:175) - TAFE 6015
+2024-06-10 15:01:38,801  [main] INFO  (home_page.java:175) - TAFE 6515
+2024-06-10 15:01:40,902  [main] INFO  (home_page.java:175) - TAFE 7515
+2024-06-10 15:01:42,920  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:01:44,947  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:01:47,079  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:01:49,987  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:01:52,662  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:01:54,694  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:01:57,224  [main] INFO  (home_page.java:168) - COMPACT
+2024-06-10 15:01:57,355  [main] INFO  (home_page.java:171) - Total models in COMPACT are : 3
+2024-06-10 15:01:57,531  [main] INFO  (home_page.java:175) - TAFE 6028 M
+2024-06-10 15:01:59,546  [main] INFO  (home_page.java:175) - TAFE 6022
+2024-06-10 15:02:01,628  [main] INFO  (home_page.java:175) - TAFE 6028 M with Front Loader
+2024-06-10 15:02:04,407  [main] INFO  (home_page.java:168) - HERITAGE
+2024-06-10 15:02:04,477  [main] INFO  (home_page.java:171) - Total models in HERITAGE are : 21
+2024-06-10 15:02:04,700  [main] INFO  (home_page.java:175) - TAFE 35 DI
+2024-06-10 15:02:06,722  [main] INFO  (home_page.java:175) - TAFE 1038 DI
+2024-06-10 15:02:08,839  [main] INFO  (home_page.java:175) - TAFE 241 DI
+2024-06-10 15:02:10,926  [main] INFO  (home_page.java:175) - TAFE 241 DI Dynatrack
+2024-06-10 15:02:13,007  [main] INFO  (home_page.java:175) - TAFE 45 DI
+2024-06-10 15:02:15,041  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:17,071  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:19,091  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:21,267  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:23,499  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:25,528  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:27,586  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:29,685  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:31,730  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:33,957  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:36,057  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:38,121  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:40,156  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:42,188  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:44,208  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:46,231  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:02:53,364  [main] INFO  (home_page.java:184) - Clicking on a model
+2024-06-10 15:03:04,998  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of witness tafe section
+2024-06-10 15:03:07,270  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-06-10 15:03:07,271  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-06-10 15:22:57,929  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-06-10 15:23:24,639  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-06-10 15:23:25,171  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of witness tafe section
+2024-06-10 15:23:26,346  [main] INFO  (home_page.java:168) - MAGNA
+2024-06-10 15:23:26,400  [main] INFO  (home_page.java:171) - Total models in MAGNA are : 11
+2024-06-10 15:23:26,589  [main] INFO  (home_page.java:175) - TAFE 4615
+2024-06-10 15:23:28,826  [main] INFO  (home_page.java:175) - TAFE 6015
+2024-06-10 15:23:31,099  [main] INFO  (home_page.java:175) - TAFE 6015
+2024-06-10 15:23:33,676  [main] INFO  (home_page.java:175) - TAFE 6515
+2024-06-10 15:23:37,322  [main] INFO  (home_page.java:175) - TAFE 7515
+2024-06-10 15:23:40,428  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:23:43,530  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:23:45,755  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:23:47,854  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:23:49,946  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:23:52,046  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:23:54,625  [main] INFO  (home_page.java:168) - COMPACT
+2024-06-10 15:23:54,657  [main] INFO  (home_page.java:171) - Total models in COMPACT are : 3
+2024-06-10 15:23:54,780  [main] INFO  (home_page.java:175) - TAFE 6028 M
+2024-06-10 15:23:56,838  [main] INFO  (home_page.java:175) - TAFE 6022
+2024-06-10 15:23:58,874  [main] INFO  (home_page.java:175) - TAFE 6028 M with Front Loader
+2024-06-10 15:24:01,392  [main] INFO  (home_page.java:168) - HERITAGE
+2024-06-10 15:24:01,504  [main] INFO  (home_page.java:171) - Total models in HERITAGE are : 21
+2024-06-10 15:24:01,624  [main] INFO  (home_page.java:175) - TAFE 35 DI
+2024-06-10 15:24:03,651  [main] INFO  (home_page.java:175) - TAFE 1038 DI
+2024-06-10 15:24:07,762  [main] INFO  (home_page.java:175) - TAFE 241 DI
+2024-06-10 15:24:10,521  [main] INFO  (home_page.java:175) - TAFE 241 DI Dynatrack
+2024-06-10 15:24:12,846  [main] INFO  (home_page.java:175) - TAFE 45 DI
+2024-06-10 15:24:14,945  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:17,026  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:19,138  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:21,166  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:23,262  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:25,358  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:27,400  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:29,440  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:31,453  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:33,527  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:35,555  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:37,584  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:39,606  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:41,693  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:43,720  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:45,764  [main] INFO  (home_page.java:175) - 
+2024-06-10 15:24:52,847  [main] INFO  (home_page.java:184) - Clicking on a modelTAFE 45 DI
+2024-06-10 15:24:53,311  [main] INFO  (testListners.java:18) - [Test Passed] :- Validation of witness tafe section
+2024-06-10 15:24:53,317  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-06-10 15:26:16,278  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-06-10 15:26:36,219  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-06-10 15:26:36,502  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of witness tafe section
+2024-06-10 15:26:42,974  [main] INFO  (home_page.java:184) - Clicking on a modelTAFE 6015
+2024-06-10 15:26:45,587  [main] INFO  (testListners.java:18) - [Test Passed] :- Validation of witness tafe section
+2024-06-10 15:26:45,603  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-06-10 15:44:00,445  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-06-10 15:44:23,892  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-06-10 15:44:24,318  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of witness tafe section
+2024-06-10 15:44:29,847  [main] INFO  (home_page.java:184) - Clicking on a modelTAFE 6515
+2024-06-10 15:44:32,534  [main] INFO  (home_page.java:192) - Redirecting to TAFE 6515's details page
+2024-06-10 15:44:37,597  [main] INFO  (home_page.java:194) - TAFE Tractor Model 6515 | 65 HP | Agricultural Tractor
+2024-06-10 15:44:37,603  [main] INFO  (testListners.java:18) - [Test Passed] :- Validation of witness tafe section
+2024-06-10 15:44:37,617  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-06-10 15:55:28,956  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-06-10 15:55:41,161  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-06-10 15:55:46,704  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of drive future section
+2024-06-10 15:55:49,212  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of drive future section
+2024-06-10 15:55:50,628  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-06-10 15:55:50,630  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-06-10 16:01:20,781  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-06-10 16:01:41,862  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-06-10 16:01:42,082  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of drive future section
+2024-06-10 16:01:42,275  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of drive future section
+2024-06-10 16:01:45,002  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-06-10 16:01:45,003  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-06-10 16:01:54,857  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-06-10 16:02:17,061  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-06-10 16:02:17,264  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of drive future section
+2024-06-10 16:02:17,383  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of drive future section
+2024-06-10 16:02:20,691  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-06-10 16:02:20,767  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-06-10 16:04:08,618  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-06-10 16:04:33,244  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-06-10 16:04:33,471  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of drive future section
+2024-06-10 16:04:35,369  [main] ERROR (testListners.java:22) - [Test Failed] :- Validation of drive future section
+2024-06-10 16:04:36,040  [main] INFO  (BaseClass.java:87) - Taking Screenshot of failed test casetestScripts.tafe_home
+2024-06-10 16:04:36,041  [main] INFO  (BaseClass.java:90) - Closing Browser
+2024-06-10 16:10:02,735  [main] INFO  (BaseClass.java:44) - Chrome Browser setup completed
+2024-06-10 16:10:30,343  [main] INFO  (BaseClass.java:71) - Landing Page is displayed
+2024-06-10 16:10:30,535  [main] INFO  (testListners.java:14) - [Running Test] :- Validation of drive future section
+2024-06-10 16:10:33,401  [main] INFO  (testListners.java:18) - [Test Passed] :- Validation of drive future section
+2024-06-10 16:10:33,515  [main] INFO  (BaseClass.java:90) - Closing Browser
